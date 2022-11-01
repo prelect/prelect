@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ebnf": "^1.9.0"
+  },
+  "name": "prelect",
+  "type": "module",
+  "description": "The Prelect Relational Expression Language Experiment in Computing Theory is a general purpose programming language for rapid application development. While it is truly general purpose, it is a dialect of SQL. If you already know SQL, then take a couple hours to master PRELECT and add another programming language to your resume.",
+  "version": "0.1.0",
+  "main": "src/repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "frithsun:prelect/prelect.git"
+  },
+  "author": "frithsun",
+  "license": "GPL-3.0"
+}
