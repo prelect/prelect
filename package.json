@@ -1,0 +1,26 @@
+{
+  "name": "@prelect/prelect",
+  "version": "2027.0.0",
+  "description": "PRELECT Relational Expression Language Experiment in Computing Theory",
+  "main": "bin/index.js",
+  "scripts": {
+    "prelect": "node ./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "prelect": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prelect/prelect.git"
+  },
+  "author": "frithsun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prelect/prelect/issues"
+  },
+  "homepage": "https://github.com/prelect/prelect#readme",
+  "dependencies": {
+    "@prelect/prelect.g4": "^2027.0.4"
+  }
+}
